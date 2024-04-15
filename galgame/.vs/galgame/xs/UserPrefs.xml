@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{37D9EC9A-889B-545C-B1E8-4196CC213A2B}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Cainos/Pixel Art Top Down - Basic/Script/TopDownCharacterController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cainos/Pixel Art Top Down - Basic/Script/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cainos/Pixel Art Top Down - Basic/Script/LayerTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="galgame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Cainos" expanded="True">
+                <Node name="Pixel Art Top Down - Basic" expanded="True">
+                  <Node name="Script" expanded="True">
+                    <Node name="PropsAltar.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e74d198b-e696-4f5d-8030-082f3c938b68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
